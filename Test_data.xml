@@ -1,0 +1,9 @@
+<Test_Data>
+
+
+<web_directory>D:\Testing\programs\chromedriver_win32\chromedriver.exe</web_directory>
+<WebSite>http://automationpractice.com/index.php</WebSite>
+<Email_Name>Elfekey15@gmail.com</Email_Name>
+<Password_s>12345678VOIS</Password_s>
+
+</Test_Data>
